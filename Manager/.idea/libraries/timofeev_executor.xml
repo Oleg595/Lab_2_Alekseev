@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="timofeev_executor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/timofeev_executor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

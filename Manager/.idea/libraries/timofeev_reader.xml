@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="timofeev_reader">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/timofeev_reader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
